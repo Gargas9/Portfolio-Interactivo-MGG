@@ -134,7 +134,7 @@ function handleOptionClick(option) {
             botResponse = { 
                 text: "Aquí tienes algunos proyectos de Diseño Gráfico de María:", 
                 sender: 'bot',
-                image: 'img/1Diseño.jpg?height=200&width=200',
+                image: 'img/1Diseno.jpg?height=200&width=200',
                 imageTitle: "Diseño de tríptico para la empresa de psicología Erain"
             };
             setOptions([
@@ -146,7 +146,7 @@ function handleOptionClick(option) {
             botResponse = {
                 text: "Claro, aquí tienes otro ejemplo de proyecto de Diseño Gráfico:",
                 sender: 'bot',
-                image: 'img/2Diseño.jpg?height=200&width=200',
+                image: 'img/2Diseno.jpg?height=200&width=200',
                 imageTitle: "Logotipo para el bar Meraki"
             };
             setOptions([
